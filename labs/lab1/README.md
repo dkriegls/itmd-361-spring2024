@@ -5,11 +5,11 @@
 This assignment is simply a due date for making sure you’ve got all your tools setup. Do not worry about getting a code 
 correct or even the assignment correct. You can keep attempting the assignment until you get full points.
 
-1. Set up the class technologies as explained in the Lesson 2 video.
+1. Set up the class technologies as explained in the *The Tools of Internet Publishing* video.
     * Github, Github Desktop, Notepad++ (or similar code editor).
 2. Create a new Github repository called *webdev_lab1*.
-    * Remember to "*Initialize this repository with:*" by checking "*Add a README file*" on the repository setup page.
-3. Follow the instructions in the Lesson 2 video for linking your new repository with a folder on 
+    * Remember to "Initialize this repository with:*" by checking "*Add a README file*" on the repository setup page.
+3. Follow the instructions in the *The Tools of Internet Publishing* video for linking your new repository with a folder on 
 your computer, using Github Desktop.
 4. Cut and paste the *index.html* file from the lab 1 repository into your *webdev_lab1* repository.
 5. Add three ```<p>``` elements to *index.html* with some basic information about yourself.
