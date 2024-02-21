@@ -3,11 +3,12 @@
 	padding: 30px;
 	border:10px dashed red;
 	font-size: 30px;
+  width: 80%;
 
 }
 
 #box2 {
-	box-sizing: content-box; /* This is already default */
+	box-sizing: content-box; /* This is default if not declared */
 	background-color: #888888;
 	width: 340px;
 	padding: 20px;
